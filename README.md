@@ -57,15 +57,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paysaae&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paysaae&theme=radical" alt="GitHub Streak" />
-</p>
