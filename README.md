@@ -13,9 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently exploring advanced UI/UX patterns and modern web technologies.
-- 💡 Passionate about bridging the gap between design and clean code.
-- 🎯 Focused on building open-source tools that empower creators and developers.
+- 🎓 I am currently studying in the **Software Development** program at **Istanbul Galata University**. 
+- 🚀 I began this journey as a **UI/UX Designer** and am now continuing as a **Developer**, blending aesthetics with functional engineering.
+- 🏢 I am the founder of a startup called **[mahalle.io](https://mahalle.io/)**. Through this startup, we offer solutions to help small business owners embrace digital transformation.
+- 🎯 I aim to launch many more startups in the future and am steadily moving forward in that direction.
 
 ---
 
